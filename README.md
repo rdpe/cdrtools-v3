@@ -9,5 +9,8 @@ When this repo in on par, alpha state will end and new releases will be done fro
 In the mean time, alpha builds are available here:<br>
 <a href="https://github.com/rdpe/cdrtools-v3/tree/alpha-downloads">https://github.com/rdpe/cdrtools-v3/tree/alpha-downloads</a><br>
 <br>
+Because of issues with the **OS2CDROM.DMD** backend, ASPI-builds are provided here:<br>
+<a href="https://github.com/rdpe/cdrtools-v3/tree/aspi-builds">https://github.com/rdpe/cdrtools-v3/tree/aspi-builds</a><br>
+<br>
 *== WORK IN PROGRESS ==*<br>
 <br>
